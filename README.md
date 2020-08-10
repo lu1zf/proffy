@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="./public/images/banner.png" width="150" >
+  <img src="./public/images/banner.png" width="700" >
 </p>
 
 
 ## Índice
 
-<!-- - [Preview](#-Preview) -->
-- [Sobre](#-Sobre)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Como executar o projeto](#-Como-executar-o-projeto)
+- [Preview](#Preview)
+- [Sobre](#Sobre)
+- [Tecnologias utilizadas](#Tecnologias-utilizadas)
+- [Como executar o projeto](#Como-executar-o-projeto)
 
 
 ---
-<!-- 
+
 ## Preview 
 
 <p align="center">
-  <img src="https://ik.imagekit.io/capitao/Proffy/final_1596781937_urgAUoPC-.jpg" width="700" >
+  <img src="./public/images/preview.png" width="1000" >
 </p>
 
---- -->
+---
 
 ## Sobre 
 
